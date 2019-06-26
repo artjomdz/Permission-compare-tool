@@ -1,1 +1,1 @@
-# Permission compare tool for Salesforce
+# Permission compare tool for Salesforce made in groovy
